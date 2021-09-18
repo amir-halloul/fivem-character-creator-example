@@ -1,0 +1,2 @@
+D:\fivem\Code\Character Creator test\Client\bin\Release\net452\publish\Character Creator test.Client.net.dll
+D:\fivem\Code\Character Creator test\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

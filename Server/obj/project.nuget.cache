@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "faPStM2fyHXYwJBAvN2fATsWRrfFiVPU9CsRFcapIAFAtMeXE0E3LTTDCRzIpkgIfxRikAKGwVbD2Ql7siGKJg==",
+  "success": true,
+  "projectFilePath": "D:\\fivem\\Code\\Character Creator test\\Server\\Character Creator test.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir\\.nuget\\packages\\citizenfx.core.server\\1.0.4549\\citizenfx.core.server.1.0.4549.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

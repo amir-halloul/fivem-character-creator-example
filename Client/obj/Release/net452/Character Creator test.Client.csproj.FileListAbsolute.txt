@@ -1,0 +1,8 @@
+D:\fivem\Code\Character Creator test\Client\bin\Release\net452\Character Creator test.Client.net.dll
+D:\fivem\Code\Character Creator test\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+D:\fivem\Code\Character Creator test\Client\obj\Release\net452\Character Creator test.Client.csprojAssemblyReference.cache
+D:\fivem\Code\Character Creator test\Client\obj\Release\net452\Character Creator test.Client.AssemblyInfoInputs.cache
+D:\fivem\Code\Character Creator test\Client\obj\Release\net452\Character Creator test.Client.AssemblyInfo.cs
+D:\fivem\Code\Character Creator test\Client\obj\Release\net452\Character Creator test.Client.csproj.CoreCompileInputs.cache
+D:\fivem\Code\Character Creator test\Client\obj\Release\net452\Character Creator test.Client.csproj.CopyComplete
+D:\fivem\Code\Character Creator test\Client\obj\Release\net452\Character Creator test.Client.net.dll

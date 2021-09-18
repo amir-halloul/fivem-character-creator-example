@@ -1,0 +1,5 @@
+D:\fivem\Code\Character Creator test\Server\bin\Release\netstandard2.0\publish\Character Creator test.Server.net.dll
+D:\fivem\Code\Character Creator test\Server\bin\Release\netstandard2.0\publish\Character Creator test.Server.deps.json
+D:\fivem\Code\Character Creator test\Server\bin\Release\netstandard2.0\publish\Character Creator test.Server.net.pdb
+D:\fivem\Code\Character Creator test\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll
+D:\fivem\Code\Character Creator test\Server\bin\Release\netstandard2.0\publish\Microsoft.CSharp.dll

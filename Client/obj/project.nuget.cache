@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1v3SrWloIdvFPZ18jWYLj2Pq99+HhRg87LryZDJWl2xet9SaMq/0tjSv+fHFkF1Ac/o0lARUCVfSCE7uKACjPw==",
+  "success": true,
+  "projectFilePath": "D:\\fivem\\Code\\Character Creator test\\Client\\Character Creator test.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir\\.nuget\\packages\\citizenfx.core.client\\1.0.4549\\citizenfx.core.client.1.0.4549.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

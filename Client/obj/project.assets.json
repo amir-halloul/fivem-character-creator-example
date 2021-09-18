@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "CitizenFX.Core.Client/1.0.4549": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CitizenFX.Core.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CitizenFX.Core.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CitizenFX.Core.Client/1.0.4549": {
+      "sha512": "mwps6y9/K0yyjieFe7Z9PKeaclAyjB7esB8iURr8sMB5D2DbXklgeLcaSIJx1BnoBWyhsseeyZgFkFvErD+Y6g==",
+      "type": "package",
+      "path": "citizenfx.core.client/1.0.4549",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "citizenfx.core.client.1.0.4549.nupkg.sha512",
+        "citizenfx.core.client.nuspec",
+        "lib/net45/CitizenFX.Core.Client.dll",
+        "lib/net45/CitizenFX.Core.Client.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "CitizenFX.Core.Client >= 1.0.*"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Amir\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\fivem\\Code\\Character Creator test\\Client\\Character Creator test.Client.csproj",
+      "projectName": "Character Creator test.Client",
+      "projectPath": "D:\\fivem\\Code\\Character Creator test\\Client\\Character Creator test.Client.csproj",
+      "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+      "outputPath": "D:\\fivem\\Code\\Character Creator test\\Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ci.appveyor.com/nuget/sdk-client-j18x8c5jnowr": {},
+        "https://ci.appveyor.com/nuget/sdk-core-gvbd7xxii757": {},
+        "https://ci.appveyor.com/nuget/sdk-plugins-o8uop85eg7xf": {},
+        "https://ci.appveyor.com/nuget/sdk-server-hwogwwdcrdcg": {}
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "targetAlias": "net452",
+        "dependencies": {
+          "CitizenFX.Core.Client": {
+            "target": "Package",
+            "version": "[1.0.*, )"
+          }
+        },
+        "downloadDependencies": [
+          {
+            "name": "CitizenFX.Framework.Client",
+            "version": "[0.2.3, 0.2.3]"
+          }
+        ],
+        "frameworkReferences": {
+          "CitizenFX.Framework.Client": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
